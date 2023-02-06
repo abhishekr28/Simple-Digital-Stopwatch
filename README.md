@@ -1,6 +1,6 @@
 # Simple-Digital-Stopwatch
 
-#Installation Guide
+Installation Guide
 - Download the source code in this site.
 - Locate and Extract the zip file.
 - Open the extracted folder
